@@ -1,5 +1,11 @@
 # nfl-data
 
+## Description
+
+NFL Data from 1978 to 2022, in CSV format.
+
+## Tables
+
 [History of team names in the NFL from 1978 to 2022.](https://github.com/ColeBallard/nfl-data/blob/main/historical-nfl-team-names.csv) <sup>1</sup>
 
 ## Resources
