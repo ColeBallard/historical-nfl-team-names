@@ -1,47 +1,47 @@
-﻿Team,YearStart,YearEnd
-Arizona Cardinals,1994,2022
-Phoenix Cardinals,1988,1993
-St. Louis Cardinals,1978,1987
-Atlanta Falcons,1978,2022
-Baltimore Ravens,1996,2022
-Buffalo Bills,1978,2022
-Carolina Panthers,1995,2022
-Chicago Bears,1978,2022
-Cincinnati Bengals,1978,2022
-Cleveland Browns,1999,2022
-Cleveland Browns,1978,1995
-Dallas Cowboys,1978,2022
-Denver Broncos,1978,2022
-Detroit Lions,1978,2022
-Green Bay Packers,1978,2022
-Houston Texans,2002,2022
-Indianapolis Colts,1984,2022
-Baltimore Colts,1978,1983
-Jacksonville Jaguars,1995,2022
-Kansas City Chiefs,1978,2022
-Las Vegas Raiders,2020,2022
-Oakland Raiders,1995,2019
-Los Angeles Raiders,1982,1994
-Oakland Raiders,1978,1981
-Los Angeles Chargers,2017,2022
-San Diego Chargers,1978,2016
-Los Angeles Rams,2016,2022
-St. Louis Rams,1995,2015
-Los Angeles Rams,1978,1994
-Miami Dolphins,1978,2022
-Minnesota Vikings,1978,2022
-New England Patriots,1978,2022
-New Orleans Saints,1978,2022
-New York Giants,1978,2022
-New York Jets,1978,2022
-Philadelphia Eagles,1978,2022
-Pittsburgh Steelers,1978,2022
-San Francisco 49ers,1978,2022
-Seattle Seahawks,1978,2022
-Tampa Bay Buccaneers,1978,2022
-Tennessee Titans,1999,2022
-Tennessee Oilers,1997,1998
-Houston Oilers,1978,1996
-Washington Commanders,2022,2022
-Washington Football Team,2020,2021
-Washington Redskins,1978,2019
+﻿Team,CurrentTeam,YearStart,YearEnd
+Arizona Cardinals,Arizona Cardinals,1994,2022
+Phoenix Cardinals,Arizona Cardinals,1988,1993
+St. Louis Cardinals,Arizona Cardinals,1978,1987
+Atlanta Falcons,Atlanta Falcons,1978,2022
+Baltimore Ravens,Baltimore Ravens,1996,2022
+Buffalo Bills,Buffalo Bills,1978,2022
+Carolina Panthers,Carolina Panthers,1995,2022
+Chicago Bears,Chicago Bears,1978,2022
+Cincinnati Bengals,Cincinnati Bengals,1978,2022
+Cleveland Browns,Cleveland Browns,1999,2022
+Cleveland Browns,Cleveland Browns,1978,1995
+Dallas Cowboys,Dallas Cowboys,1978,2022
+Denver Broncos,Denver Broncos,1978,2022
+Detroit Lions,Detroit Lions,1978,2022
+Green Bay Packers,Green Bay Packers,1978,2022
+Houston Texans,Houston Texans,2002,2022
+Indianapolis Colts,Indianapolis Colts,1984,2022
+Baltimore Colts,Indianapolis Colts,1978,1983
+Jacksonville Jaguars,Jacksonville Jaguars,1995,2022
+Kansas City Chiefs,Kansas City Chiefs,1978,2022
+Las Vegas Raiders,Las Vegas Raiders,2020,2022
+Oakland Raiders,Las Vegas Raiders,1995,2019
+Los Angeles Raiders,Las Vegas Raiders,1982,1994
+Oakland Raiders,Las Vegas Raiders,1978,1981
+Los Angeles Chargers,Los Angeles Chargers,2017,2022
+San Diego Chargers,Los Angeles Chargers,1978,2016
+Los Angeles Rams,Los Angeles Rams,2016,2022
+St. Louis Rams,Los Angeles Rams,1995,2015
+Los Angeles Rams,Los Angeles Rams,1978,1994
+Miami Dolphins,Miami Dolphins,1978,2022
+Minnesota Vikings,Minnesota Vikings,1978,2022
+New England Patriots,New England Patriots,1978,2022
+New Orleans Saints,New Orleans Saints,1978,2022
+New York Giants,New York Giants,1978,2022
+New York Jets,New York Jets,1978,2022
+Philadelphia Eagles,Philadelphia Eagles,1978,2022
+Pittsburgh Steelers,Pittsburgh Steelers,1978,2022
+San Francisco 49ers,San Francisco 49ers,1978,2022
+Seattle Seahawks,Seattle Seahawks,1978,2022
+Tampa Bay Buccaneers,Tampa Bay Buccaneers,1978,2022
+Tennessee Titans,Tennessee Titans,1999,2022
+Tennessee Oilers,Tennessee Titans,1997,1998
+Houston Oilers,Tennessee Titans,1978,1996
+Washington Commanders,Washington Commanders,2022,2022
+Washington Football Team,Washington Commanders,2020,2021
+Washington Redskins,Washington Commanders,1978,2019
