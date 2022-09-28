@@ -1,4 +1,4 @@
-# nfl-data
+# NFL Data
 
 ## Description
 
