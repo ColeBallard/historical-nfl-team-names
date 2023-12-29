@@ -12,4 +12,4 @@ NFL Data from 1978 to 2023, in CSV format.
 ## Resources
 
 1. https://en.wikipedia.org/wiki/Timeline_of_the_National_Football_League accessed on 09/13/2022
-2. https://www.footballdb.com/ accessed on 12/26/2023.
+2. https://www.footballdb.com/ accessed on 12/26/2023
